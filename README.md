@@ -10,6 +10,8 @@ This project, named "T20-World-Cup-2022-Best-top11", focuses on identifying the 
 ## Data Collection
 The data for this project was collected using Python. A combination of APIs and web scraping techniques were employed to gather player statistics from various cricket data sources. Python scripts were used to filter and process the data according to the specified criteria for different player roles.
 
+## Live Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiODdhY2IzZTctN2JkNS00YWRlLWFjODItY2FhOTVhNTNlMGEzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## Usage
 To explore the project:
 
